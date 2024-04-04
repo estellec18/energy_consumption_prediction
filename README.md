@@ -1,9 +1,11 @@
 # energy_consumption_prediction
-*Projet développé dans le cadre de la formation Data Scientist OC (RNCP niveau 7)*
+*Projet développé dans le cadre du parcours Data Scientist d'OpenClassrooms en partenariat avec CentralSupélec (RNCP niveau 7)*
+
+**Contexte**
 
 La ville de Seattle souhaite atteindre son objectif de ville neutre en émissions de carbone en 2050. Ces émissions dépendent principalement de la consommation et des émissions des bâtiments non destinés à l’habitation.
 
-Des relevés ont été effectués par les agents de la ville en 2016.
+Des relevés de consommation ont été effectués par les agents de la ville en 2016.
 
 Source des données : https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy/about_data
 
